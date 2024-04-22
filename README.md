@@ -8,4 +8,4 @@ Link: https://www.nature.com/articles/s41598-020-58053-z
 
 TO THE GRADERS:
 It is recommended that the graders run the model architecture that is left uncommented for the sake of time. Other architectures may take longer than 8 minutes. Nothing needs to be changed from the file to achieve this end result.
-Data was not included in this repo due to size constraints. Original data cam be found in the google drive.
+Data was not included in this repo due to size constraints. Original data can be found in the google drive.
